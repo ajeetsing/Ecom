@@ -1,7 +1,6 @@
-5. Create React App
-   1. npx create-react-app frontend
-   2. npm start
-   3. Remove unused files
-   4. copy index.html content to App.js
-   5. copy style.css content to index.css
-   6. replace class with className
+7. Create Rating and Product Component
+   1. create components/Rating.js
+   2. create div.rating
+   3. style div.rating, span and last span
+   4. Create Product component
+   5. Use Rating component
